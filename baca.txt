@@ -1,0 +1,11 @@
+halaman login admin:
+http://localhost/smk/
+- username : admin
+- password : admin123
+
+
+halaman login siswa:
+http://localhost/smk/siswa/
+
+- username : menggunakan nidp
+- password : 123123
